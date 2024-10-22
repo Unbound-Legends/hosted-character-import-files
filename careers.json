@@ -1,0 +1,770 @@
+{
+  "Entertainer": {
+    "name": "Entertainer",
+    "description": "See CRB, page 40, for more details.",
+    "book": "CRB",
+    "page": "40",
+    "setting": ["All"],
+    "skills": [
+      "Charm",
+      "Coordination",
+      "Deception",
+      "Discipline",
+      "Leadership",
+      "Melee",
+      "MeleeLight",
+      "Skullduggery",
+      "Stealth"
+    ]
+  },
+  "Explorer": {
+    "name": "Explorer",
+    "description": "See CRB, page 41, for more details.",
+    "book": "CRB",
+    "page": "41",
+    "setting": ["All"],
+    "skills": [
+      "Athletics",
+      "Brawl",
+      "Coordination",
+      "Deception",
+      "Perception",
+      "Ranged",
+      "RangedHeavy",
+      "Stealth",
+      "Survival"
+    ]
+  },
+  "Healer": {
+    "name": "Healer",
+    "description": "See CRB, page 41, for more details.",
+    "book": "CRB",
+    "page": "41",
+    "setting": ["All"],
+    "skills": [
+      "Cool",
+      "Discipline",
+      "Knowledge",
+      "Medicine",
+      "Melee",
+      "MeleeLight",
+      "Resilience",
+      "Survival",
+      "Vigilance"
+    ]
+  },
+  "Leader": {
+    "name": "Leader",
+    "description": "See CRB, page 41, for more details.",
+    "book": "CRB",
+    "page": "41",
+    "setting": ["All"],
+    "skills": [
+      "Charm",
+      "Coercion",
+      "Cool",
+      "Discipline",
+      "Leadership",
+      "Melee",
+      "MeleeLight",
+      "Negotiation",
+      "Perception"
+    ]
+  },
+  "Scoundrel": {
+    "name": "Scoundrel",
+    "description": "See CRB, page 41, for more details.",
+    "book": "CRB",
+    "page": "41",
+    "setting": ["All"],
+    "skills": [
+      "Charm",
+      "Cool",
+      "Coordination",
+      "Deception",
+      "Ranged",
+      "RangedLight",
+      "Skullduggery",
+      "Stealth",
+      "Streetwise"
+    ]
+  },
+  "Socialite": {
+    "name": "Socialite",
+    "description": "See CRB, page 41, for more details.",
+    "book": "CRB",
+    "page": "41",
+    "setting": ["All"],
+    "skills": [
+      "Charm",
+      "Cool",
+      "Deception",
+      "Knowledge",
+      "Negotiation",
+      "Perception",
+      "Streetwise",
+      "Vigilance"
+    ]
+  },
+  "Soldier": {
+    "name": "Soldier",
+    "description": "See CRB, page 41, for more details.",
+    "book": "CRB",
+    "page": "41",
+    "setting": ["All"],
+    "skills": [
+      "Athletics",
+      "Brawl",
+      "Gunnery",
+      "Coercion",
+      "Melee",
+      "MeleeHeavy",
+      "Perception",
+      "Ranged",
+      "RangedHeavy",
+      "Survival",
+      "Vigilance"
+    ]
+  },
+  "Tradesperson": {
+    "name": "Tradesperson",
+    "description": "See CRB, page 42, for more details.",
+    "book": "CRB",
+    "page": "41",
+    "setting": ["All"],
+    "skills": [
+      "Athletics",
+      "Brawl",
+      "Discipline",
+      "Mechanics",
+      "Negotiation",
+      "Perception",
+      "Resilience",
+      "Streetwise"
+    ]
+  },
+  "Hacker": {
+    "name": "Hacker",
+    "setting": ["Science Fiction", "Space Opera", "Hacking"],
+    "book": "CRB",
+    "page": "42",
+    "description": "See CRB, page 42, for more details.",
+    "skills": [
+      "Computers",
+      "Discipline",
+      "Knowledge",
+      "Mechanics",
+      "Perception",
+      "Piloting",
+      "Streetwise",
+      "Vigilance"
+    ]
+  },
+  "FighterPilot": {
+    "name": "Fighter Pilot",
+    "setting": ["Weird War", "Modern", "Science Fiction", "Space Opera", "Vehicle"],
+    "book": "CRB",
+    "page": "42",
+    "description": "See CRB, page 42, for more details.",
+    "skills": [
+      "Cool",
+      "Driving",
+      "Gunnery",
+      "Mechanics",
+      "Perception",
+      "Piloting",
+      "RangedLight",
+      "Vigilance"
+    ]
+  },
+  "Knight": {
+    "name": "Knight",
+    "setting": ["Fantasy"],
+    "book": "CRB",
+    "page": "42",
+    "description": "See CRB, page 42, for more details.",
+    "skills": [
+      "Athletics",
+      "Discipline",
+      "Leadership",
+      "MeleeHeavy",
+      "MeleeLight",
+      "Resilience",
+      "Riding",
+      "Vigilance",
+      "Melee",
+      "Gunnery",
+      "Driving",
+      "Piloting",
+      "Operating"
+    ]
+  },
+  "MadScientist": {
+    "name": "Mad Scientist",
+    "setting": ["Steampunk", "Weird War"],
+    "book": "CRB",
+    "page": "43",
+    "description": "See CRB, page 43, for more details.",
+    "skills": [
+      "Alchemy",
+      "Coercion",
+      "Knowledge",
+      "Mechanics",
+      "Medicine",
+      "Operating",
+      "Skullduggery",
+      "RangedHeavy",
+      "Arcana"
+    ]
+  },
+  "Priest": {
+    "name": "Priest",
+    "setting": ["Magic"],
+    "book": "CRB",
+    "page": "43",
+    "description": "See CRB, page 43, for more details.",
+    "skills": [
+      "Charm",
+      "Coercion",
+      "Cool",
+      "Discipline",
+      "Divine",
+      "Medicine",
+      "Melee",
+      "MeleeLight",
+      "Negotiation"
+    ]
+  },
+  "Druid": {
+    "name": "Druid",
+    "setting": ["Magic"],
+    "book": "CRB",
+    "page": "43",
+    "description": "See CRB, page 43, for more details.",
+    "skills": [
+      "Athletics",
+      "Brawl",
+      "Coordination",
+      "Melee",
+      "MeleeHeavy",
+      "Primal",
+      "Resilience",
+      "Survival",
+      "Vigilance"
+    ]
+  },
+  "StarshipCaptain": {
+    "name": "Starship Captain",
+    "setting": ["Science Fiction", "Space Opera", "Vehicle"],
+    "book": "CRB",
+    "page": "43",
+    "description": "See CRB, page 43, for more details.",
+    "skills": [
+      "Computers",
+      "Discipline",
+      "Gunnery",
+      "Knowledge",
+      "Leadership",
+      "Mechanics",
+      "Operating",
+      "Perception",
+      "Astrocartography"
+    ]
+  },
+  "Wizard": {
+    "name": "Wizard",
+    "setting": ["Magic"],
+    "book": "CRB",
+    "page": "43",
+    "description": "See CRB, page 43, for more details.",
+    "skills": [
+      "Arcana",
+      "Coercion",
+      "Discipline",
+      "Knowledge",
+      "Leadership",
+      "Skullduggery",
+      "Stealth",
+      "Vigilance",
+      "Alchemy"
+    ]
+  },
+  "Aembermancer": {
+    "name": "Æmbermancer",
+    "description": "See Secrets of the Crucible, page 58, for more details.",
+    "book": "KF",
+    "page": "58",
+    "setting": ["Secrets of the Crucible", "Keyforge"],
+    "skills": [
+      "Aembercraft",
+      "Brawl",
+      "Cool",
+      "Discipline",
+      "KnowledgeAember",
+      "Perception",
+      "Resilience",
+      "Survival"
+    ]
+  },
+  "Arbitrator": {
+    "name": "Arbitrator",
+    "description": "See Secrets of the Crucible, page 59, for more details.",
+    "book": "KF",
+    "page": "59",
+    "setting": ["Secrets of the Crucible", "Keyforge"],
+    "skills": [
+      "Charm",
+      "Coercion",
+      "Discipline",
+      "KnowledgeCulture",
+      "Leadership",
+      "Ranged",
+      "Negotiation",
+      "Vigilance"
+    ]
+  },
+  "Craeniac": {
+    "name": "Cræniac",
+    "description": "See Secrets of the Crucible, page 60, for more details.",
+    "book": "KF",
+    "page": "60",
+    "setting": ["Secrets of the Crucible", "Keyforge"],
+    "skills": [
+      "Aembercraft",
+      "Computers",
+      "Gunnery",
+      "KnowledgeAember",
+      "KnowledgeScience",
+      "Mechanics",
+      "Operating",
+      "Skullduggery"
+    ]
+  },
+  "Cruciblist": {
+    "name": "Cruciblist",
+    "description": "See Secrets of the Crucible, page 61, for more details.",
+    "book": "KF",
+    "page": "61",
+    "setting": ["Secrets of the Crucible", "Keyforge"],
+    "skills": [
+      "Cool",
+      "Discipline",
+      "KnowledgeAember",
+      "KnowledgeCrucible",
+      "KnowledgeScience",
+      "Resilience",
+      "Riding",
+      "Survival"
+    ]
+  },
+  "Discoverer": {
+    "name": "Discoverer",
+    "description": "See Secrets of the Crucible, page 62, for more details.",
+    "book": "KF",
+    "page": "62",
+    "setting": ["Secrets of the Crucible", "Keyforge"],
+    "skills": [
+      "Athletics",
+      "KnowledgeCrucible",
+      "Melee",
+      "Perception",
+      "Piloting",
+      "Riding",
+      "Stealth",
+      "Survival"
+    ]
+  },
+  "Engineer": {
+    "name": "Engineer",
+    "description": "See Secrets of the Crucible, page 63, for more details.",
+    "book": "KF",
+    "page": "63",
+    "setting": ["Secrets of the Crucible", "Keyforge"],
+    "skills": [
+      "Athletics",
+      "Computers",
+      "KnowledgeScience",
+      "Mechanics",
+      "Operating",
+      "Perception",
+      "Ranged",
+      "Vigilance"
+    ]
+  },
+  "Mender": {
+    "name": "Mender",
+    "description": "See Secrets of the Crucible, page 64, for more details.",
+    "book": "KF",
+    "page": "64",
+    "setting": ["Secrets of the Crucible", "Keyforge"],
+    "skills": [
+      "Cool",
+      "KnowledgeCrucible",
+      "KnowledgeCulture",
+      "Mechanics",
+      "Medicine",
+      "Melee",
+      "Negotiation",
+      "Resilience"
+    ]
+  },
+  "Performer": {
+    "name": "Performer",
+    "description": "See Secrets of the Crucible, page 65, for more details.",
+    "book": "KF",
+    "page": "65",
+    "setting": ["Secrets of the Crucible", "Keyforge"],
+    "skills": [
+      "Charm",
+      "Coordination",
+      "Deception",
+      "Leadership",
+      "Melee",
+      "Perception",
+      "Skullduggery",
+      "Streetwise"
+    ]
+  },
+  "Rogue": {
+    "name": "Rogue",
+    "description": "See Secrets of the Crucible, page 66, for more details.",
+    "book": "KF",
+    "page": "66",
+    "setting": ["Secrets of the Crucible", "Keyforge"],
+    "skills": [
+      "Brawl",
+      "Coordination",
+      "Deception",
+      "Ranged",
+      "Skullduggery",
+      "Stealth",
+      "Streetwise",
+      "Vigilance"
+    ]
+  },
+  "Trader": {
+    "name": "Trader",
+    "description": "See Secrets of the Crucible, page 67, for more details.",
+    "book": "KF",
+    "page": "67",
+    "setting": ["Secrets of the Crucible", "Keyforge"],
+    "skills": [
+      "Charm",
+      "Coercion",
+      "Deception",
+      "Discipline",
+      "KnowledgeCulture",
+      "Medicine",
+      "Negotiation",
+      "Streetwise"
+    ]
+  },
+  "Vaultwarrior": {
+    "name": "Vaultwarrior",
+    "description": "See Secrets of the Crucible, page 68, for more details.",
+    "book": "KF",
+    "page": "68",
+    "setting": ["Secrets of the Crucible", "Keyforge"],
+    "skills": [
+      "Athletics",
+      "Brawl",
+      "Coordination",
+      "Gunnery",
+      "Medicine",
+      "Melee",
+      "Piloting",
+      "Ranged"
+    ]
+  },
+  "Disciple": {
+    "name": "Disciple",
+    "setting": ["Fantasy"],
+    "book": "ROT",
+    "page": "70",
+    "description": "See ROT, page 70, for more details.",
+    "skills": [
+      "Athletics",
+      "Charm",
+      "Discipline",
+      "Divine",
+      "KnowledgeLore",
+      "Leadership",
+      "MeleeLight",
+      "Melee",
+      "Resilience"
+    ]
+  },
+  "Envoy": {
+    "name": "Envoy",
+    "setting": ["Fantasy"],
+    "book": "ROT",
+    "page": "70",
+    "description": "See ROT, page 70, for more details.",
+    "skills": [
+      "Charm",
+      "Cool",
+      "Deception",
+      "KnowledgeGeography",
+      "Leadership",
+      "MeleeLight",
+      "Negotiation",
+      "Melee",
+      "Vigilance"
+    ]
+  },
+  "Mage": {
+    "name": "Mage",
+    "setting": ["Fantasy"],
+    "book": "ROT",
+    "page": "71",
+    "description": "See ROT, page 71, for more details.",
+    "skills": [
+      "Alchemy",
+      "Cool",
+      "Arcana",
+      "Discipline",
+      "KnowledgeAdventuring",
+      "KnowledgeForbidden",
+      "KnowledgeLore",
+      "Perception"
+    ]
+  },
+  "Primalist": {
+    "name": "Primalist",
+    "setting": ["Fantasy"],
+    "book": "ROT",
+    "page": "71",
+    "description": "See ROT, page 71, for more details.",
+    "skills": [
+      "Alchemy",
+      "Brawl",
+      "Discipline",
+      "KnowledgeLore",
+      "Medicine",
+      "MeleeHeavy",
+      "Primal",
+      "Survival"
+    ]
+  },
+  "Scholar": {
+    "name": "Scholar",
+    "setting": ["Fantasy"],
+    "book": "ROT",
+    "page": "72",
+    "description": "See ROT, page 72, for more details.",
+    "skills": [
+      "Alchemy",
+      "KnowledgeForbidden",
+      "KnowledgeGeography",
+      "KnowledgeLore",
+      "Mechanics",
+      "Medicine",
+      "Perception",
+      "Runes"
+    ]
+  },
+  "Scout": {
+    "name": "Scout",
+    "setting": ["Fantasy"],
+    "book": "ROT",
+    "page": "73",
+    "description": "See ROT, page 73, for more details.",
+    "skills": [
+      "KnowledgeAdventuring",
+      "KnowledgeGeography",
+      "Perception",
+      "Ranged",
+      "Riding",
+      "Stealth",
+      "Survival",
+      "Vigilance"
+    ]
+  },
+  "Warrior": {
+    "name": "Warrior",
+    "setting": ["Fantasy"],
+    "book": "ROT",
+    "page": "73",
+    "description": "See ROT, page 73, for more details.",
+    "skills": [
+      "Brawl",
+      "Coercion",
+      "Leadership",
+      "MeleeHeavy",
+      "MeleeLight",
+      "Resilience",
+      "Riding",
+      "Vigilance"
+    ]
+  },
+  "Academic": {
+    "name": "Academic",
+    "description": "See SOTB, page 32, for more details.",
+    "book": "SOTB",
+    "page": 32,
+    "setting": ["Shadow Of The Beanstalk"],
+    "skills": [
+      "Discipline",
+      "KnowledgeScience",
+      "KnowledgeSociety",
+      "KnowledgeTheNet",
+      "Leadership",
+      "Medicine",
+      "Melee",
+      "Negotiation"
+    ]
+  },
+  "BountyHunter": {
+    "name": "Bounty Hunter",
+    "description": "See SOTB, page 33, for more details.",
+    "book": "SOTB",
+    "page": 33,
+    "setting": ["Shadow Of The Beanstalk"],
+    "skills": [
+      "Streetwise",
+      "Resilience",
+      "RangedHeavy",
+      "Melee",
+      "Driving",
+      "Discipline",
+      "Coercion",
+      "Brawl"
+    ]
+  },
+  "ConArtist": {
+    "name": "Con Artist",
+    "description": "See SOTB, page 34, for more details.",
+    "book": "SOTB",
+    "page": 34,
+    "setting": ["Shadow Of The Beanstalk"],
+    "skills": [
+      "Charm",
+      "Coordination",
+      "Deception",
+      "Melee",
+      "Negotiation",
+      "RangedLight",
+      "Skullduggery",
+      "Stealth"
+    ]
+  },
+  "Courier": {
+    "name": "Courier",
+    "description": "See SOTB, page 35, for more details.",
+    "book": "SOTB",
+    "page": 35,
+    "setting": ["Shadow Of The Beanstalk"],
+    "skills": [
+      "Athletics",
+      "Brawl",
+      "Charm",
+      "Coordination",
+      "Driving",
+      "Piloting",
+      "Stealth",
+      "Survival"
+    ]
+  },
+  "Investigator": {
+    "name": "Investigator",
+    "description": "See SOTB, page 36, for more details.",
+    "book": "SOTB",
+    "page": 36,
+    "setting": ["Shadow Of The Beanstalk"],
+    "skills": [
+      "Coercion",
+      "ComputersHacking",
+      "KnowledgeSociety",
+      "Leadership",
+      "Perception",
+      "RangedLight",
+      "Streetwise",
+      "Vigilance"
+    ]
+  },
+  "Ristie": {
+    "name": "Ristie",
+    "description": "See SOTB, page 37, for more details.",
+    "book": "SOTB",
+    "page": 37,
+    "setting": ["Shadow Of The Beanstalk"],
+    "skills": [
+      "Charm",
+      "Cool",
+      "Deception",
+      "KnowledgeSociety",
+      "Leadership",
+      "Negotiation",
+      "Perception",
+      "Vigilance"
+    ]
+  },
+  "Roughneck": {
+    "name": "Roughneck",
+    "description": "See SOTB, page 38, for more details.",
+    "book": "SOTB",
+    "page": 38,
+    "setting": ["Shadow Of The Beanstalk"],
+    "skills": [
+      "Athletics",
+      "Gunnery",
+      "Mechanics",
+      "Operating",
+      "Piloting",
+      "RangedHeavy",
+      "Resilience",
+      "Vigilance"
+    ]
+  },
+  "Runner": {
+    "name": "Runner",
+    "description": "See SOTB, page 39, for more details.",
+    "book": "SOTB",
+    "page": 39,
+    "setting": ["Shadow Of The Beanstalk"],
+    "skills": [
+      "ComputersHacking",
+      "ComputersSysops",
+      "Cool",
+      "Deception",
+      "KnowledgeTheNet",
+      "Perception",
+      "Skullduggery",
+      "Streetwise"
+    ]
+  },
+  "SoldierSOTB": {
+    "name": "Soldier",
+    "description": "See SOTB, page 40, for more details.",
+    "book": "SOTB",
+    "page": 40,
+    "setting": ["Shadow Of The Beanstalk"],
+    "skills": [
+      "Athletics",
+      "Coercion",
+      "Gunnery",
+      "Melee",
+      "RangedHeavy",
+      "RangedLight",
+      "Resilience",
+      "Survival"
+    ]
+  },
+  "Tech": {
+    "name": "Tech",
+    "description": "See SOTB, page 41, for more details.",
+    "book": "SOTB",
+    "page": 41,
+    "setting": ["Shadow Of The Beanstalk"],
+    "skills": [
+      "Brawl",
+      "ComputersSysops",
+      "KnowledgeScience",
+      "KnowledgeTheNet",
+      "Mechanics",
+      "Medicine",
+      "Operating",
+      "Piloting"
+    ]
+  }
+}
